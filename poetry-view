@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>My First Web Page</title>
+</head>
+<body>
+ <h2>Some Poetry</h2>
+    <p>
+        <h4>1. JABBERWOCKY</h4>
+        Poet: Lewis Carrol
+        <hr><pre>
+            Twas brillig, and the slithy toves
+
+            Did gyre and gimble in the wabe:
+
+            All mimsy were the borogoves,
+
+            And the mome raths outgrabe.
+
+ 
+
+            ‘Beware the Jabberwock, my son!
+
+            The jaws that bite, the claws that catch!
+
+            Beware the Jubjub bird, and shun
+
+            The frumious Bandersnatch!’
+        </pre><hr>
+        <br>
+        <h4>2. THE RAVEN</h4>
+        Poet: Edgar Allan Poe
+        <hr><Pre>
+            “Be that word our sign of parting, bird or fiend!” I shrieked, upstarting—
+
+            “Get thee back into the tempest and the Night’s Plutonian shore!
+
+            Leave no black plume as a token of that lie thy soul hath spoken!
+
+            Leave my loneliness unbroken!—quit the bust above my door!
+
+            Take thy beak from out my heart, and take thy form from off my door!”
+
+            Quoth the Raven “Nevermore.”
+        </Pre><hr>
+        <br>
+        <h2>Words with different definitions</h2>
+        <h3>1. Run</h3>
+        <ul>
+            <li>Verb: My dog loves to run about in the park (move quickly with legs)</li>
+            <li>Noun:The play has had a successful run in the West End. (a period of time)</li>
+        </ul>
+        <br>
+        <h3>2. Take</h3>
+        <ul>
+            <li>Verb: Don’t forget to take an extra pair of shoes (move something or someone from one place to another)</li>
+            <li>Verb Phrase: Take it from me, this restaurant is excellent. (used to emphasize that what you’re saying is true and people should believe it – spoken)</li>
+        </ul>
+    </p>
+
+
+</body>
+</html>
